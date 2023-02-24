@@ -36,8 +36,8 @@ if selec=="Home":
     c=st.empty()
     d=st.empty()
     a.header("Uber Price Prediction")
-    start_address = b.text_input('start address','uppal metro',label_visibility="visible")
-    end_address = c.text_input('end address','metuguda metro',label_visibility="visible")
+    start_address = b.text_input('start address')
+    end_address = c.text_input('end address')
 
     if d.button("Submit"):
             
