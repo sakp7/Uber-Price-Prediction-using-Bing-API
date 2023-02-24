@@ -8,7 +8,7 @@ import time
 from PIL import Image
 
 # Add a marker to the map
-img=Image.open("h11.jpg")
+# img=Image.open("h11.jpg")
 base_go=28.25
 base_bike=11
 base_auto=20
