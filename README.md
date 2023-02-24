@@ -1,1 +1,1 @@
-# Uber-Price-Prediction-using-Binge-API
+# Uber-Price-Prediction-using-Binge-Maps-API
