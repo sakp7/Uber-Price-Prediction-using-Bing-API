@@ -7,7 +7,6 @@ from streamlit_extras.colored_header import colored_header
 import time
 from PIL import Image
 
-# Add a marker to the map
 # img=Image.open("h11.jpg")
 base_go=28.25
 base_bike=11
