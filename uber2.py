@@ -3,7 +3,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import requests
 from streamlit_lottie import st_lottie
-from streamlit_extras.colored_header import colored_header
+# from streamlit_extras.colored_header import colored_header
 import time
 from PIL import Image
 
